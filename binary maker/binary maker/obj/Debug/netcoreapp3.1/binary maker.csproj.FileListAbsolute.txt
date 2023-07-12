@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.exe
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.deps.json
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.runtimeconfig.json
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.dll
+C:\Users\ASUS\source\repos\binary maker\binary maker\bin\Debug\netcoreapp3.1\binary maker.pdb
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary_maker.Form1.resources
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary_maker.Properties.Resources.resources
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.dll
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.pdb
+C:\Users\ASUS\source\repos\binary maker\binary maker\obj\Debug\netcoreapp3.1\binary maker.genruntimeconfig.cache
