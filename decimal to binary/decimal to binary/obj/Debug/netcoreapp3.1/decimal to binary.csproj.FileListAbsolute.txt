@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.exe
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.deps.json
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.runtimeconfig.json
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.dll
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.pdb
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal_to_binary.Form1.resources
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.dll
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.pdb
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\decimal to binary\decimal to binary\obj\Debug\netcoreapp3.1\decimal_to_binary.Properties.Resources.resources
